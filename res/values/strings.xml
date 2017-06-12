@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">МОЙCAR</string>
+    <string name="app_about">О ПРОГРАММЕ</string>
+    <string name="action_settings">МЕНЮ</string>
+    <string name="debit_title">ДОХОД</string>
+    <string name="credit_title">РАСХОД</string>
+    <string name="employee_title">СОТРУДНИКИ</string>
+    <string name="total_title">ИТОГО</string>
+    <string name="total_title2">ИТОГО ЗА ТЕКУЩИЙ МЕСЯЦ</string>
+    <string name="total_day">День:</string>
+    <string name="total_night">Ночь:</string>
+    <string name="total_dayAndNight">Сутки:</string>
+    <string name="total_month">Месяц:</string>
+    <string name="total_credit_table">Общий расход</string>
+    <string name="total_debit_table">Общий доход (чистый)</string>
+    <string name="total_debit_cur_month_table">Общий доход</string>
+
+    <string name="dialog_db_setup_title">Настройка базы данных</string>
+    <string name="dialog_account_add_title">Добавить нового пользователя</string>
+    <string name="dialog_account_add_login">Логин</string>
+    <string name="dialog_account_add_pswd">Пароль</string>
+    <string name="dialog_account_add_pswd_confirm">Повтор пароля</string>
+    <string name="dialog_account_add_role">Роль</string>
+    <string name="dialog_add_employee_title">Добавить нового сотрудника</string>
+    <string name="dialog_add_employee_lname">Фамилия</string>
+    <string name="dialog_add_employee_fname">Имя</string>
+    <string name="dialog_add_employee_soname">Отчество</string>
+    <string name="dialog_confirm_title">Выполнить действие?</string>
+
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_ok">Да</string>
+    <string name="btn_no">Нет</string>
+    <string name="btn_delete">Удалить</string>
+
+    <string name="menu_employee_add">Добавить сотрудника</string>
+    <string name="menu_employee_all">Список сотрудников</string>
+    <string name="menu_about_app">О программе</string>
+    <string name="menu_debit_all">Весь приход</string>
+    <string name="menu_debit_edit">Редактировать приход</string>
+    <string name="menu_credit_all">Весь расход</string>
+    <string name="menu_credit_edit">Редактировать расход</string>
+    <string name="menu_setup">Настойки</string>
+    <string name="menu_clear_data">Очистить данные</string>
+    <string name="menu_db">База данных</string>
+    <string name="menu_accounts">Пользователи</string>
+    <string name="menu_account_add">Добавить пользователя</string>
+    <string name="menu_total">Итого</string>
+    <string name="menu_close_app">Закрыть</string>
+
+    <string name="setup_title">Настойки</string>
+    <string name="setup_db_title">Настойки базы данных</string>
+    <string name="setup_accounts_title">Пользователи</string>
+    <string name="setup_url">URL</string>
+    <string name="setup_login">Логин</string>
+    <string name="setup_pswd">Пароль</string>
+
+    <string name="credit_stat_text">Расходы</string>
+    <string name="credit_pay_text">Зар. Плата</string>
+    <string name="credit_chemical_text">Химия</string>
+    <string name="credit_rent_text">Аренда</string>
+    <string name="credit_food_text">Пища</string>
+    <string name="credit_chosphaches_text">Хоз.Расходы</string>
+    <string name="credit_dues_text">Налоги</string>
+    <string name="credit_equipment_text">Оборудование</string>
+    <string name="credit_else_text">Прочие...</string>
+
+    <string name="table_header_account_login">Логин</string>
+    <string name="table_header_account_role">Роль</string>
+    <string name="debit_stat_text">Доходы</string>
+    <string name="debit_stat_total_sum">Итого за период:</string>
+    <string name="table_header_timeArt_deb">Приход</string>
+    <string name="table_header_creditArt_credit">Расход</string>
+    <string name="table_header_value">Сумма</string>
+    <string name="table_header_date">Дата</string>
+    <string name="table_header_act">Выполнить</string>
+    <string name="table_header_empl">Сотрудник</string>
+    <string name="table_header_empl_lname">Фамилия</string>
+    <string name="table_header_empl_fname">Имя</string>
+    <string name="table_header_empl_soname">Отчество</string>
+    <string name="debit_stat_btn_search">Поиск</string>
+    <string name="footer_text_in_table">Итого за период:</string>
+
+    <string name="msg_save">Запись успешно сохранена</string>
+    <string name="msg_save_err">Ошибка сохранения!</string>
+    <string name="msg_del">Запись успешно удалена</string>
+    <string name="msg_del_err">Ошибка удаления!</string>
+
+    <string name="spinner_default">Сутки</string>
+
+</resources>

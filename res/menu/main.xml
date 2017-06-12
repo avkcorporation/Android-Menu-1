@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+    <!--android:showAsAction="never"-->
+
+    <item
+            android:id="@+id/menu_show_employee_all"
+            android:orderInCategory="100"
+            android:title="Item-1"
+            android:clickable="true"
+            android:enabled="true"
+            />
+        <!--
+            android:showAsAction="always"
+            -->
+
+
+    <item
+            android:id="@+id/menu_show_dialog_employee_add"
+            android:orderInCategory="100"
+            android:title="Item-2"
+            android:clickable="true"
+            android:enabled="true"
+            />
+
+    <item
+            android:id="@+id/menu_show_credit_stat"
+            android:orderInCategory="100"
+            android:title="Item-3"
+            android:clickable="true"
+            android:enabled="true"
+            />
+
+    <item
+            android:id="@+id/menu_show_credit_edit"
+            android:orderInCategory="100"
+            android:title="Item-4"
+            android:clickable="true"
+            android:enabled="true"
+            />
+
+</menu>
